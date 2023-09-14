@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75
+
 const mergeAlternately = function(word1, word2) {
   let shortestWord;
   let longestWord;
